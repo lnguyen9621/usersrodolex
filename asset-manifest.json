@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/usersrodolex/static/css/main.9f07ba4e.chunk.css",
+    "main.js": "/usersrodolex/static/js/main.0a30c9aa.chunk.js",
+    "main.js.map": "/usersrodolex/static/js/main.0a30c9aa.chunk.js.map",
+    "runtime-main.js": "/usersrodolex/static/js/runtime-main.98b9396c.js",
+    "runtime-main.js.map": "/usersrodolex/static/js/runtime-main.98b9396c.js.map",
+    "static/js/2.f6166101.chunk.js": "/usersrodolex/static/js/2.f6166101.chunk.js",
+    "static/js/2.f6166101.chunk.js.map": "/usersrodolex/static/js/2.f6166101.chunk.js.map",
+    "index.html": "/usersrodolex/index.html",
+    "precache-manifest.4a0d4d61488a35894b55f39f6c5da74e.js": "/usersrodolex/precache-manifest.4a0d4d61488a35894b55f39f6c5da74e.js",
+    "service-worker.js": "/usersrodolex/service-worker.js",
+    "static/css/main.9f07ba4e.chunk.css.map": "/usersrodolex/static/css/main.9f07ba4e.chunk.css.map",
+    "static/js/2.f6166101.chunk.js.LICENSE.txt": "/usersrodolex/static/js/2.f6166101.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98b9396c.js",
+    "static/js/2.f6166101.chunk.js",
+    "static/css/main.9f07ba4e.chunk.css",
+    "static/js/main.0a30c9aa.chunk.js"
+  ]
+}
